@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\bin\Debug\net8.0\UseCases2.exe
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\bin\Debug\net8.0\UseCases2.deps.json
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\bin\Debug\net8.0\UseCases2.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\bin\Debug\net8.0\UseCases2.dll
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\bin\Debug\net8.0\UseCases2.pdb
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.dll
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\refint\UseCases2.dll
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.pdb
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\UseCases2.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\UseCases2\UseCases2\obj\Debug\net8.0\ref\UseCases2.dll
